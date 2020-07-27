@@ -6,14 +6,18 @@
 
 .banner-container {
   background-image: url("images/banner.png");
-  object-fit: cover;
-  height: 300px;
+  background-size: cover;
+  height: 100%;
   width: 100%;
   margin: -7px;
 }
 
-.banner-container h1 {
+.banner-text {
   font-family: helvetica;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 100px;
+  color: white;
 }
 
 .text-container {

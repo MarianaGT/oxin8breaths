@@ -1,0 +1,23 @@
+.main-container {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.banner-container {
+  background-image: url("images/banner.png");
+  object-fit: cover;
+  height: 300px;
+  width: 100%;
+  margin: -7px;
+}
+
+.banner-container h1 {
+  font-family: helvetica;
+}
+
+.text-container {
+  color: #5d534f;
+  font-family:
+  text-align: center;
+}

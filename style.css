@@ -24,7 +24,6 @@
 }
 
 .text-container {
-  color: #5d534f;
   display: flex;
   margin-top: 0px;
 }
@@ -41,6 +40,10 @@
   color: white;
 }
 
+.gray {
+  color: #5d534f;
+}
+
 .p-container {
   width: 50%;
   text-align: justify;
@@ -53,4 +56,11 @@
 
 .flex {
   display: flex;
+}
+
+.horizontal-simmetry {
+  width: 30%;
+  text-align: justify;
+  padding: 20px;
+  background-color: white;
 }

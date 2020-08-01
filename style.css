@@ -1,3 +1,7 @@
+.body-font {
+  font-family: helvetica;
+}
+
 .main-container {
   margin: 0;
   width: 95%;
@@ -9,7 +13,6 @@
 }
 
 .banner-text {
-  font-family: helvetica;
   margin-bottom: 0px;
   padding-bottom: 0px;
   padding-top: 0px;
@@ -22,7 +25,6 @@
 
 .text-container {
   color: #5d534f;
-  font-family: helvetica;
   display: flex;
   margin-top: 0px;
 }
@@ -46,14 +48,9 @@
 }
 
 .little-text {
-  font-family: helvetica;
   font-size: 10px;
 }
 
-.white-box {
-  background-color: rgba(255, 255, 255, 0.5);
-  border-radius: 30px 30px 30px 0px;
-  padding: 20px;
-  width: 70%;
-  font-size: 14px;
+.flex {
+  display: flex;
 }

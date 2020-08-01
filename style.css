@@ -1,27 +1,59 @@
 .main-container {
-  padding: 0;
   margin: 0;
-  width: 100%;
+  width: 95%;
+  padding: 30px;
 }
 
-.banner-container {
-  background-image: url("images/banner.png");
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-  margin: -7px;
+.banner-image {
+  margin: 25px;
 }
 
 .banner-text {
   font-family: helvetica;
-  text-align: center;
-  padding-top: 20px;
-  font-size: 100px;
-  color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: -90px;
+  font-size: 70px;
+  line-height: 1.5em;
+  margin-right: 10px;
+  position: relative;
 }
 
 .text-container {
   color: #5d534f;
-  font-family:
-  text-align: center;
+  font-family: helvetica;
+  display: flex;
+  margin-top: 0px;
+}
+
+.pastel-blue {
+ background-color: #a8e0ff;
+}
+
+.blue {
+  color: #6cb4dc;
+}
+
+.white {
+  color: white;
+}
+
+.p-container {
+  width: 50%;
+  text-align: justify;
+  margin: 20px;
+}
+
+.little-text {
+  font-family: helvetica;
+  font-size: 10px;
+}
+
+.white-box {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 30px 30px 30px 0px;
+  padding: 20px;
+  width: 70%;
+  font-size: 14px;
 }

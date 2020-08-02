@@ -69,10 +69,7 @@
   display: flex;
 }
 
-.horizontal-simmetry {
-  width: 30%;
-  text-align: justify;
-  padding: 20px;
+.white-container {
   background-color: white;
 }
 

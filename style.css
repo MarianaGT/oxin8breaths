@@ -1,12 +1,21 @@
-.text-justify {
-  text-align: justify;
-  padding-top: 0;
+.text-left {
+  text-align: left;
+  padding-top: 10px;
   margin-top: 0;
 }
 
 .no-space {
-  padding-bottom: 0;
-  margin-bottom: 0;
+  padding: 3px;
+  margin: 0;
+}
+
+.line-height {
+  height: 70px;
+  width: 35px;
+}
+
+.smaller-icon {
+  width: 30px;
 }
 
 .body-font {
@@ -51,6 +60,10 @@
   color: white;
 }
 
+.yellow {
+  color: #fff6bc;
+}
+
 .gray {
   color: #5d534f;
 }
@@ -74,6 +87,6 @@
 }
 
 .stop-box {
-  width: 250px;
+  width: 300px;
   margin: 20px;
 }

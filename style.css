@@ -14,6 +14,12 @@
   width: 35px;
 }
 
+.small-line {
+  height: 30px;
+  width: 35px;
+  margin-top: -5px;
+}
+
 .smaller-icon {
   width: 30px;
 }
@@ -89,4 +95,10 @@
 .stop-box {
   width: 300px;
   margin: 20px;
+}
+
+.letter-bg {
+  border-radius: 4px;
+  padding: 3px 4px 3px 4px;
+  margin-top: 0px;
 }

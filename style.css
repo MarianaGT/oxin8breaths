@@ -17,7 +17,7 @@
 .small-line {
   height: 30px;
   width: 35px;
-  margin-top: -5px;
+  margin-top: -4px;
 }
 
 .smaller-icon {
@@ -101,4 +101,11 @@
   border-radius: 4px;
   padding: 3px 4px 3px 4px;
   margin-top: 0px;
+}
+
+.picture {
+  width: 90%;
+  height: 300px;
+  margin: 0 20px;
+  background-size: cover;
 }

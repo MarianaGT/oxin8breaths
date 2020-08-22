@@ -132,10 +132,8 @@
   right: 0;
   width: 100%;
   height: 250px;
-  color: black;
-  padding: 15px;
-  background: rgba(255, 255, 255, 0.7);
-  transition: all 0.4 ease-in-out 0s;
+  background: rgba(168, 224, 255, 0.7);
+  transition: 400ms ease;
 }
 
 .postcard:hover .postcard-top,
@@ -144,9 +142,8 @@
 }
 
 .postcard-text {
-  filter: blur(0);
   box-sizing: border-box;
-  font-size: 30px;
   transition: 0.2s linear;
+  padding: 30px;
 }
 

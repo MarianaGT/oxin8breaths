@@ -137,7 +137,7 @@
   right: 0;
   width: 100%;
   height: 250px;
-  background: rgba(168, 224, 255, 0.7);
+  background: rgba(168, 224, 255, 0.8);
   transition: 400ms ease;
 }
 
@@ -150,5 +150,6 @@
   box-sizing: border-box;
   transition: 0.2s linear;
   padding: 30px;
+  font-size: 20px;
 }
 

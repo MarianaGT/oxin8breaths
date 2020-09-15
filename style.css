@@ -109,7 +109,12 @@
 }
 
 .picture {
-  width: 500px
+  width: 525px
+}
+
+.border {
+  border: solid 4px #5d534f;
+  border-radius: 7px;
 }
 
 .postcard {

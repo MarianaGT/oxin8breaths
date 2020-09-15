@@ -109,10 +109,7 @@
 }
 
 .picture {
-  width: 90%;
-  height: 350px;
-  margin: 0 20px;
-  background-size: cover;
+  width: 500px
 }
 
 .postcard {

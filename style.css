@@ -110,7 +110,7 @@
 
 .picture {
   width: 500px;
-  background-color: #5d534f;
+  background-color: #5d534f
 }
 
 .border {
@@ -120,12 +120,12 @@
 
 .postcard {
   position: relative;
-  width: 80%;
+  width: 352px;
   height: 250px;
-  margin: 0 40px;
+  margin: 0 25px;
   background-size: cover;
   background-position: center center;
-  background-repeat: no-repeat;
+
 }
 
 .postcard:hover img {
